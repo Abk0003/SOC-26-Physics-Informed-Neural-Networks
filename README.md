@@ -1,7 +1,5 @@
 # Physics-Informed Neural Networks (PINNs)
-### WnCC Seasons of Code — 8-Week Mentorship
-
-> **Learn to embed physics into neural networks — from solving ODEs to discovering unknown parameters in real systems.**
+### WnCC Seasons of Code
 
 ---
 
@@ -9,7 +7,7 @@
 
 Physics-Informed Neural Networks (PINNs) are neural networks that learn to satisfy physical laws (written as differential equations) as part of their training objective. Instead of needing thousands of labelled data points, they learn by minimising how much they violate the governing equations of a system.
 
-This project takes you from building your first PINN on a simple oscillator all the way to applying them to fluid dynamics, inverse problems, or neural operators — depending on the track you choose.
+This project takes you from building your first PINN on a simple oscillator all the way to applying them to fluid dynamics, inverse problems, or neural operators - depending on the track you choose.
 
 ## Prerequisites
 
